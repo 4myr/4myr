@@ -35,10 +35,10 @@
 [![AMYR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyr)](https://wakatime.com/@amyr)
 
 
-<h3>📪 Contact Me </h3>
+<h3>📪 Contact Me:</h3>
 
 <p><a href="https://www.linkedin.com/in/amyrir" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/amyrdev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
- <a href="https://t.me/SudoYUM/" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://t.co/4myr_ir/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://t.me/SudoYUM/" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%232ca5e0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://t.co/4myr_ir/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
  
 [website]: https://amyr.ir/
 [instagram]: https://instagram.com/amyrdev
