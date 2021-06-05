@@ -19,20 +19,19 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Bootstrap](https://img.shields.io/badge/-Bootrstrap-000?&logo=Bootstrap)
 
-[![AMYR GitHub stats](https://github-readme-stats.vercel.app/api?username=4myr&show_icons=true&theme=dark)](https://amyr.ir)
+[![AMYR GitHub stats](https://github-readme-stats.vercel.app/api?username=4myr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://amyr.ir)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4myr&layout=compact&show_icons=true&theme=dark)](https://amyr.ir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4myr&layout=compact&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://amyr.ir)
 
-* At Workplace:
+<h3>🏢 At Workplace:</h3>
 
-
-[![AMYR Samiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyrsamiz&show_icons=true&theme=dark)](https://wakatime.com/@amyrsamiz)
-
-
-* At Personal Computer:
+[![AMYR Samiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyrsamiz&show_icons=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://wakatime.com/@amyrsamiz)
 
 
-[![AMYR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyr&show_icons=true&theme=dark)](https://wakatime.com/@amyr)
+<h3>🏘 At Home:</h3>
+
+
+[![AMYR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyr&show_icons=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://wakatime.com/@amyr)
 
 
 <h3>📪 Contact Me:</h3>
