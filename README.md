@@ -13,10 +13,6 @@
 [![AMYR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyr)](https://wakatime.com/@amyr)
 
 
-
-
 [website]: https://amyr.ir/
 [instagram]: https://instagram.com/amyrdev
 [linkedin]: https://linkedin.com/in/amyrir/
-[twitter]: https://twitter.com/4myr_ir/
-[telegram]: https://t.me/SUDOYUM/
