@@ -12,6 +12,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=Nestjs)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=Jenkins)
@@ -22,10 +23,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4myr&layout=compact)](https://amyr.ir)
 
 * At Workplace:
+
+
 [![AMYR Samiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyrsamiz)](https://wakatime.com/@amyrsamiz)
 
 
 * At Personal Computer:
+
+
 [![AMYR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyr)](https://wakatime.com/@amyr)
 
 
