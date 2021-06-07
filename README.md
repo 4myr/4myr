@@ -1,14 +1,13 @@
 # AMYR GitHub Stats
 
-### Languages
-
+### Languages:
 
 [![PHP](https://img.shields.io/badge/-PHP-1b262c?&logo=PHP&logoColor=00599C)](https://github.com/4myr?tab=repositories&q=&type=&language=php)
 [![Python](https://img.shields.io/badge/-Python-1b262c?&logo=python)](https://github.com/4myr?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-1b262c?&logo=JavaScript&logoColor=ddc508)](https://github.com/4myr?tab=repositories&q=&type=&language=javascript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-1b262c?&logo=TypeScript&logoColor=00599C)](https://github.com/4myr?tab=repositories&q=&type=&language=TypeScript)
 
-### Technologies
+### Technologies:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-1b262c?&logo=laravel)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-1b262c?&logo=react)
