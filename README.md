@@ -4,17 +4,17 @@
 
 
 [![PHP](https://img.shields.io/badge/-PHP-1b262c?&logo=PHP&logoColor=00599C)](https://github.com/4myr?tab=repositories&q=&type=&language=php)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-1b262c?&logo=TypeScript&logoColor=00599C)](https://github.com/4myr?tab=repositories&q=&type=&language=TypeScript)
 [![Python](https://img.shields.io/badge/-Python-1b262c?&logo=python)](https://github.com/4myr?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-1b262c?&logo=JavaScript&logoColor=ddc508)](https://github.com/4myr?tab=repositories&q=&type=&language=javascript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-1b262c?&logo=TypeScript&logoColor=00599C)](https://github.com/4myr?tab=repositories&q=&type=&language=TypeScript)
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-1b262c?&logo=Linux&logoColor=FCC624)
 ![Laravel](https://img.shields.io/badge/-Laravel-1b262c?&logo=laravel)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-1b262c?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-1b262c?&logo=npm)
+![NodeJS](https://img.shields.io/badge/-NodeJS-1b262c?&logo=npm)
 ![NestJS](https://img.shields.io/badge/-NestJS-1b262c?&logo=Nestjs)
+![Linux](https://img.shields.io/badge/-Linux-1b262c?&logo=Linux&logoColor=FCC624)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-1b262c?&logo=Jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-1b262c?&logo=Docker)
 ![Bootstrap](https://img.shields.io/badge/-Bootrstrap-1b262c?&logo=Bootstrap)
