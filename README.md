@@ -11,13 +11,21 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-1b262c?&logo=laravel)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-1b262c?&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-1b262c?&logo=next.js)
+![NextJS](https://img.shields.io/badge/-NextJS-1b262c?&logo=next.js))
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1b262c?&logo=tailwindcss)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1b262c?&logo=npm)
 ![NestJS](https://img.shields.io/badge/-NestJS-1b262c?&logo=Nestjs)
 ![Linux](https://img.shields.io/badge/-Linux-1b262c?&logo=Linux&logoColor=FCC624)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-1b262c?&logo=Jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-1b262c?&logo=Docker)
 ![Bootstrap](https://img.shields.io/badge/-Bootrstrap-1b262c?&logo=Bootstrap)
+![Jenkins](https://img.shields.io/badge/-Jenkins-1b262c?&logo=jenkins)
+![Gitlab CI](https://img.shields.io/badge/-Gitlab CI-1b262c?&logo=gitlab)
+![Swagger](https://img.shields.io/badge/-Swagger-1b262c?&logo=swagger)
+![MySQL](https://img.shields.io/badge/-MySQL-1b262c?&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1b262c?&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-1b262c?&logo=redis)
+
 
 <h3>👨‍💻 GitHub Stats:</h3>
 
