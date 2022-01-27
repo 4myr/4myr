@@ -32,15 +32,14 @@
 
 <a href="https://www.amyr.ir/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=4myr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,0f4c75&theme=white" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4myr&langs_count=3&hide=html&&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,0f4c75,1b262c&theme=white" /></a>
 
-<h3>🏢 WakaTime at Workplace:</h3>
-
-[![AMYR Samiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyrsamiz&show_icons=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://wakatime.com/@amyrsamiz)
-
-
 <h3>🏘 WakaTime at Home:</h3>
 
 
 [![AMYR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyr&show_icons=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://wakatime.com/@amyr)
+
+<h3>🏢 WakaTime at Workplace:</h3>
+
+[![AMYR Samiz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amyrsamiz&show_icons=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,1b262c,1b262c,0f4c75,0f4c75&theme=white)](https://wakatime.com/@amyrsamiz)
 
 
 <h3>📪 Contact Me:</h3>
