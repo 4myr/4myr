@@ -46,3 +46,8 @@
 [website]: https://amyr.ir/
 [instagram]: https://instagram.com/amyrdev
 [linkedin]: https://linkedin.com/in/amyrir/
+
+
+<h3>🎶 Listening:</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yid7a2eedxb81d2hokv91zbli&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=yid7a2eedxb81d2hokv91zbli&redirect=true)
