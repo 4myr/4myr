@@ -13,7 +13,7 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-1b262c?&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-1b262c?&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1b262c?&logo=tailwindcss)
-![MaterialUI](https://img.shields.io/badge/-MUI-1b262c?&logo=MaterialUI)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-1b262c?&logo=MUI)
 ![Redux](https://img.shields.io/badge/-Redux-1b262c?&logo=Redux)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1b262c?&logo=npm)
 ![NestJS](https://img.shields.io/badge/-NestJS-1b262c?&logo=Nestjs)
